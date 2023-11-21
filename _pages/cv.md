@@ -9,32 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Gas Discharge Physics, National Center for Mathematics and Computer Science,  2024 (expected)
-* M.Sc. in Industrial and Applied Mathematics, Eindhoven University of Technology, 2019
-* B.Eng.(Hons.) in Mechanical Engineering, BITS Pilani, Goa, 2017
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-Present: Ph.D candidate, [Multiscale Dynamics Group](https://www.cwi.nl/en/groups/multiscale-dynamics/), [CWI](https://www.cwi.nl/en/)
+* Winter 2018: Research Intern, [Scientific Computing Group](https://www.cwi.nl/en/groups/scientific-computing/), [CWI](https://www.cwi.nl/en/)
+* Summer 2016: Research Intern, Nanyang Technological University, Singapore
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Education
+======
+* M.Sc. Industrial and Applied Mathematics, Eindhoven University of Technology, 2019
+* B.Eng.(Hons.) Mechanical Engineering, BITS Pilani, Goa, 2017
+
+
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer: C/C++, Fortran, Python, MATLAB, Version Control (Git), OpenMP/MPI
+
+* CFD Packages: OpenFOAM, Ansys-FLUENT
+
+* Languages: English, Telugu, Hindi, Dutch
 
 Publications
 ======
@@ -42,7 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Posters/Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -51,9 +45,11 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Organizational Activities
 ======
-* Currently signed in to 43 different slack teams
+* Summer 2023, Member, Local Organizing Committee, International Conference in phenomena in Ionized Gases 
+* Years 2019, 2020, 2021, Member, PhD Activity Committee, CWI
+* Winter 2015, Organizer, BITS Model United Nations, BITS Pilani
