@@ -84,7 +84,7 @@ author:
   avatar           : "MK3_4829.jpg"
   bio              : # "What to even write here"
   location         : "Amsterdam, Netherlands"
-  employer         : "Centrum Wiskunde & Informatica"
+    # employer         : # "Centrum Wiskunde & Informatica"
     # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=v-T8690AAAAJ&hl=en"
   email            : "hemadityamalla.at.gmail.com h.malla.at.cwi.nl"
