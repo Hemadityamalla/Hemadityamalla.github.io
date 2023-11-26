@@ -14,4 +14,4 @@ I am a computational scientist who is passionate about leveraging advanced compu
 I have gained experience in designing and implementing algorithms, conducting data analysis, and developing physics-based models through my studies and PhD.
 In my free time, I play ultimate frisbee competitively, experiment with new cooking recipes and explore Sci-Fi stories through my love for books.
 
-Use the naviation pane at the top of this page for more information, and look to the right pane for contact info.
+Use the naviation pane at the top of this page (on a non-mobile browser) for more information.
