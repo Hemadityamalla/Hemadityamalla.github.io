@@ -9,4 +9,4 @@ location: "Paris, France"
 ---
 
 <!--- Poster related to the [Humid air paper](https://iopscience.iop.org/article/10.1088/1361-6595/acf60e). -->
-![Here is the poster](../files/ESCAMPIG_Hakone_poster_2022.png)
+![Here is the poster](../files/ESCAMPIG_Hakone_poster_2022.pdf)
